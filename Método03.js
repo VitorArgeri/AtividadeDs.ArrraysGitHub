@@ -3,8 +3,8 @@
 
 //Const: Usado para criar variáveis que não serão reatríbuidas, ou seja, uma variável imutável.
 
-//Defino uma array com as strings 1, 2, 3, 4 e 5.
-const arrayA = [1, 2, 3, 4, 5];
+//Defino uma array com as strings 30, 40, 50, 60 e 70.
+const arrayA = [30, 40, 50, 60, 70];
 //Exibo a arrayA.
 console.log(arrayA);
 //Defino uma array como o reverso da arrayA com o .reverse().
