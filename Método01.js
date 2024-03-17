@@ -4,11 +4,11 @@
 //Const: Usado para criar variáveis que não serão reatríbuidas, ou seja, uma variável imutável.
 
 //Defino um array com as seguintes strings: 'a', 'b', 'c'.
-const arrayA = ['a', 'b', 'c'];
+const arrayA = ['e', 'f', 'g'];
 //Exibo a arrayA.
 console.log(arrayA);
 //Defino um array com os seguintes números: 1, 2, 3.
-const arrayB = [1, 2, 3];
+const arrayB = [10, 25, 30];
 //Exibo a arrayB.
 console.log(arrayB);
 //Defino uma array como a mistura entre a arrayA e a arrayB com o .concat().
