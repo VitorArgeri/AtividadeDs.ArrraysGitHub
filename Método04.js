@@ -3,8 +3,8 @@
 
 //Const: Usado para criar variáveis que não serão reatríbuidas, ou seja, uma variável imutável.
 
-//Defino uma array com os números 5, 4, 3, 2 e 1 em ordem decrescente.
-const numeros = [5, 4, 3, 2, 1];
+//Defino uma array com os números 8, 7, 6, 5 e 4 em ordem decrescente.
+const numeros = [8, 7, 6, 5, 4];
 //Exibo numeros.
 console.log(numeros);
 //Defino numeros2 como a ordem crescente da array numeros utilizando .sort().
