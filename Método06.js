@@ -1,10 +1,10 @@
 //Método 06: some().
 //O método some(). verifica se pelo menos um elemento presente na array passa em um teste especificado.
 
-//Defino uma array com os elementos 1, 2, 3, 4 e 6.
-let array1 = [1, 2, 3, 4];
+//Defino uma array com os elementos 30, 22, 11, 67.
+let array1 = [30, 22, 11, 67];
 //Defino uma variável como a verificação de que se algum elemento dentro da primeira array é maior ou igual a 4
-let array2 = array1.some(array1 => array1 >= 4);
+let array2 = array1.some(array1 => array1 >= 50);
 //Exibo a verificação presente na array2.
 console.log(array2);
 //A reposta será true.
