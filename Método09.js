@@ -1,10 +1,10 @@
 //Método 09: filter()
 //Cria uma nova array com todos os elementos que passaram por um determinado teste.
 
-//Define a array com os valores 1, 2, 3, 4 e 5.
-let numeros = [1, 2, 3, 4, 5];
+//Define a array com os valores 1, 2, 3, 9 e 11.
+let numeros = [1, 2, 3, 9, 11];
 //Define exibidor como a verificação de quais números atendem a condição.
-let exibidor = numeros.filter(numeros => numeros >= 3);
+let exibidor = numeros.filter(numeros => numeros >= 8);
 //Exibe o exibidor,
 console.log(exibidor);
 
